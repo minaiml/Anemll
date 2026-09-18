@@ -1,0 +1,14 @@
+{
+  "fork": "minaiml/Anemll",
+  "source": "Anemll/Anemll",
+  "source_url": "https://github.com/Anemll/Anemll",
+  "commit": "f4ad26d061dc2e426faa19f81c367343bdeb9f0d",
+  "branch": "main",
+  "fetched": "2026-09-18",
+  "upstream_license": null,
+  "upstream_license_name": null,
+  "role": "phone engine — LLMs on the Apple Neural Engine",
+  "note": "No licence is declared upstream, so the work is all rights reserved by its author. This fork exists under GitHub's Terms of Service, which permit forking within GitHub. Nothing here is redistributed, repackaged or released as a binary outside GitHub unless and until upstream declares a licence. We have asked upstream to declare one.",
+  "estate_license": "not applicable — no estate code added to this fork",
+  "policy": "https://github.com/minaiml"
+}
